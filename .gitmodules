@@ -1,0 +1,3 @@
+[submodule "jmodengine"]
+	path = jmodengine
+	url = https://github.com/ModEngine/jmodengine.git
